@@ -1,2 +1,3 @@
 # demo-class
-my first git repository
+my first git repository 
+author vivek
